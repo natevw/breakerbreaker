@@ -9,6 +9,7 @@
   "author": "Nathan Vander Wilt",
   "license": "ISC",
   "dependencies": {
+    "fermata": "^0.10.6",
     "linefeed": "git://github.com/natevw/linefeed.git"
   }
 }
