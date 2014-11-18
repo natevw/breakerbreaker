@@ -1,8 +1,8 @@
 var config = require("./config.js"),
-    NORMAL_TIMEOUT = 10*60e1,
-    ABUSED_TIMEOUT = 45e2,
-    INFO_INTERVAL = 30e2,
-    lastReceived = "TESTING";
+    NORMAL_TIMEOUT = 10*60e3,
+    ABUSED_TIMEOUT = 45e3,
+    INFO_INTERVAL = 30e3,
+    lastReceived = "[Nothing received yet.]";
 
 var LineStream = require('linefeed'),
     fermata = require('fermata');
