@@ -1,0 +1,14 @@
+{
+  "name": "breakerbreaker",
+  "version": "0.0.0",
+  "description": "Alert if outdoor circuit power loss detected.",
+  "main": "watcher.node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Vander Wilt",
+  "license": "ISC",
+  "dependencies": {
+    "linefeed": "git://github.com/natevw/linefeed.git"
+  }
+}
