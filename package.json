@@ -6,10 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": "git@github.com:natevw/breakerbreaker.git",
   "author": "Nathan Vander Wilt",
   "license": "ISC",
   "dependencies": {
     "fermata": "^0.10.6",
-    "linefeed": "git://github.com/natevw/linefeed.git"
+    "linefeed": "git+https://github.com/natevw/linefeed.git"
   }
 }
